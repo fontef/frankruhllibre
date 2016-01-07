@@ -3,9 +3,11 @@ An open source version of the classic Hebrew Frank Rühl typeface
 
 ## About Frank-Rühl
 
-The most common Hebrew typeface in print. It was designed in 1908 by Rafael Frank in collaboration with Auto Rühl of the C. F. Rühl foundry. A final version was released in 1910. Most Israeli books, newspapers and magazines use Frank-Rühl as their body text typeface.
-Designed to accommodate the growing need for typefaces in secular Hebrew writings. It was designed to fit modern printing equipment and to be readable in long form texts, with and without diacritical marks.
-Its design is based on the Hebrew Sephardi script; on an Italian typeface by 17th punchcutter Daniel Bomberg and on the style of Art Nouveau.
+The most ubiquitous Hebrew typeface in print, Frank-Rühl was designed in 1908 by Rafael Frank in collaboration with Auto Rühl of the C. F. Rühl foundry of Leipzig. A final version was released in 1910. Many Israeli books, newspapers and magazines use Frank-Rühl as their main body text typeface.
+
+Made to accommodate the growing need for typefaces in secular Hebrew writings, the typeface was fitted to modern printing demands and designed to be readable in longform text, with and without vowel marks.
+
+Frank-Rühl has Sephardi proportions (mem-height is approximately 4½ stroke widths), and is based roughly on Venetian typefaces used by printer Daniel Bomberg. Frank wrote of his design that he wishes to combine the simpleness of Antiqua with the "pleasantness" of Fraktur, leading him to "quieten" the letterforms by reducing the contrast between its thin and thick strokes.
 
 ## About Yanek Iontef
 
