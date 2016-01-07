@@ -11,3 +11,8 @@ Its design is based on the Hebrew Sephardi script; on an Italian typeface by 17t
 
 USSR-born, Israeli based Yanek Iontef studied graphic design at Bezalel Academy of Art and Design, Jerusalem. He worked as a graphic designer in London and Tel Aviv. Since 1995 he has taught typography and type design at the Bezalel Academy in Jerusalem and Shenkar College of Engineering and Design in Ramat Gan. He currently works in Tel Aviv as a freelance designer specializing in type design, corporate identity and editorial design. An award-winning type designer, he also has his own type foundry (FONTEF), producing a range of Hebrew and Latin fonts.
 
+## Links
+
+* [Wikipedia (Hebrew)](https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%A0%D7%A7-%D7%A8%D7%99%D7%94%D7%9C)
+* [Original article by Rafael Frank on the design of Frank-Rühl (German, PDF)](http://www.tau.ac.il/~stoledo/fonts/frank-scanned.pdf)
+* [Translated article by Rael Frank (Hebrew, PDF)](http://www.tau.ac.il/~stoledo/fonts/frank-hebrew.pdf)
