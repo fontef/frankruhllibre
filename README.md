@@ -1,4 +1,4 @@
-# Frank-Rühl
+# FrankRuhl Hofshi
 An open source version of the classic Hebrew Frank Rühl typeface
 
 ## About Frank-Rühl
