@@ -11,7 +11,7 @@ value = (
 date = "2016-03-01 09:00:07 +0000";
 designer = "Yanek Iontef";
 designerURL = www.fontef.com;
-familyName = "FrankRuhl Hofshi";
+familyName = "Frank Ruhl Hofshi";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem hebr dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012";
