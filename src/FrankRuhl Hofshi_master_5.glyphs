@@ -1,5 +1,5 @@
 {
-.appVersion = "851";
+.appVersion = "854";
 copyright = "Copyright 2015 The Frank Ruhl Hofshi Project Authors. ";
 customParameters = (
 {
@@ -8,7 +8,7 @@ value = (
 );
 }
 );
-date = "2016-03-01 09:00:07 +0000";
+date = "2016-03-03 08:58:17 +0000";
 designer = "Yanek Iontef";
 designerURL = www.fontef.com;
 familyName = "Frank Ruhl Hofshi";
@@ -30652,7 +30652,7 @@ unicode = FB2D;
 },
 {
 glyphname = "alefpatah-hb";
-lastChange = "2016-03-01 11:26:07 +0000";
+lastChange = "2016-03-03 09:17:22 +0000";
 layers = (
 {
 components = (
@@ -30674,7 +30674,7 @@ name = "alef-hb";
 },
 {
 name = "patah-hb";
-transform = "{1, 0, 0, 1, 140, 0}";
+transform = "{1, 0, 0, 1, 150, 0}";
 }
 );
 layerId = "705D5379-5CC9-457D-BF30-EC6EB9252852";
@@ -30687,7 +30687,7 @@ name = "alef-hb";
 },
 {
 name = "patah-hb";
-transform = "{1, 0, 0, 1, 151, 0}";
+transform = "{1, 0, 0, 1, 161, 0}";
 }
 );
 layerId = "C3F6A16D-5E1F-403C-905F-9502D4908E23";
@@ -30700,7 +30700,7 @@ unicode = FB2E;
 },
 {
 glyphname = "alefqamats-hb";
-lastChange = "2016-03-01 11:26:07 +0000";
+lastChange = "2016-03-03 09:17:22 +0000";
 layers = (
 {
 components = (
@@ -30722,7 +30722,7 @@ name = "alef-hb";
 },
 {
 name = "qamats-hb";
-transform = "{1, 0, 0, 1, 124, 0}";
+transform = "{1, 0, 0, 1, 134, 0}";
 }
 );
 layerId = "705D5379-5CC9-457D-BF30-EC6EB9252852";
@@ -30735,7 +30735,7 @@ name = "alef-hb";
 },
 {
 name = "qamats-hb";
-transform = "{1, 0, 0, 1, 150, 0}";
+transform = "{1, 0, 0, 1, 160, 0}";
 }
 );
 layerId = "C3F6A16D-5E1F-403C-905F-9502D4908E23";
@@ -65893,7 +65893,7 @@ layers = (
 anchors = (
 {
 name = _bottomleft;
-position = "{-0, 0}";
+position = "{0, 0}";
 }
 );
 layerId = "A270BFC0-E682-4EED-9FF7-BE35A5492496";
@@ -66313,6 +66313,12 @@ unicode = 05C7;
 );
 instances = (
 {
+customParameters = (
+{
+name = "New Parameter";
+value = "New Value";
+}
+);
 interpolationWeight = 74;
 name = Light;
 weightClass = Light;
@@ -66700,12 +66706,18 @@ X = {
 eight = {
 one = -60;
 };
+eightinferior = {
+oneinferior = -38;
+};
 j = {
 "@MMK_R_m" = -20;
 "@MMK_R_o" = -20;
 };
 one = {
 eight = -30;
+};
+oneinferior = {
+eightinferior = -19;
 };
 space = {
 "@MMK_R_A" = -90;
@@ -66714,12 +66726,6 @@ space = {
 };
 x = {
 "@MMK_R_o" = -30;
-};
-eightinferior = {
-oneinferior = -38;
-};
-oneinferior = {
-eightinferior = -19;
 };
 };
 "705D5379-5CC9-457D-BF30-EC6EB9252852" = {
@@ -67120,6 +67126,9 @@ X = {
 eight = {
 one = -60;
 };
+eightinferior = {
+oneinferior = -40;
+};
 j = {
 "@MMK_R_m" = -20;
 "@MMK_R_o" = -20;
@@ -67127,6 +67136,10 @@ j = {
 one = {
 eight = -30;
 zero = -20;
+};
+oneinferior = {
+eightinferior = -20;
+zeroinferior = -13;
 };
 space = {
 "@MMK_R_A" = -90;
@@ -67141,13 +67154,6 @@ y = {
 };
 zero = {
 one = -20;
-};
-eightinferior = {
-oneinferior = -40;
-};
-oneinferior = {
-eightinferior = -20;
-zeroinferior = -13;
 };
 zeroinferior = {
 oneinferior = -13;
@@ -67569,5 +67575,5 @@ manufacturer = Fontef;
 manufacturerURL = www.fontef.com;
 unitsPerEm = 1000;
 versionMajor = 5;
-versionMinor = 0;
+versionMinor = 1;
 }
