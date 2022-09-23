@@ -2,6 +2,8 @@
 
 An open source version of the classic Hebrew typeface _Frank Rühl_
 
+![Hebrew](documentation/Preview1.png)
+
 ## About Frank-Rühl
 
 The most ubiquitous Hebrew typeface in print, Frank Rühl was designed in 1908 by Rafael Frank in collaboration with Auto Rühl of the C. F. Rühl foundry of Leipzig. 
@@ -14,6 +16,8 @@ Frank Rühl has Sephardi proportions (mem-height is approximately 4½ stroke wid
 Frank wrote of his design that he wishes to combine the simpleness of Antiqua with the "pleasantness" of Fraktur, leading him to "quieten" the letterforms by reducing the contrast between its thin and thick strokes.
 
 This newly designed revival of the typeface features a family of 5 weights (the original typeface had only one.)
+
+![Latin](documentation/Preview2.png)
 
 ## About Yanek Iontef
 
