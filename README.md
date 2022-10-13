@@ -1,4 +1,4 @@
-# Frank Ruhl Hofshi
+# Frank Ruhl Libre
 
 An open source version of the classic Hebrew typeface _Frank Rühl_
 
