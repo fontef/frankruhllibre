@@ -1,15 +1,6 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-"Kerning missing in Light:
-Tr Zm bT bH בא בק דר דת ד׳ גץ גק גר גת ג׳ ח׳ למ לת לט לװ נך נן נף נל פצ רױ סף תױ טר צא צד צג װת ײג ײת ײװ ײז Qm 10 ₁₀ yc 01 ₀₁ Tr Zm bT bH בא בף בק דר דת ד׳ גץ גק גר גת ג׳ ח׳ כן לב לג למ לת לט לװ לז נך נן נף נל rw רױ סף תנ תױ טר צא צﬠ צד צג װת ײף ײג ײת ײװ Vr Wr yc ",
-"Kerning missing in Regular:
-Ho On Ry Tn ﬠפ נת On בף כן לב לג לז rw תנ צﬠ ײף Vr Wr ",
-"Kerning missing in Bold:
-Ho Ry Tn ﬠפ hj נס נת rt rz vz Vn Wn 81 ₈₁ 18 ₁₈ 
-hj נס פצ rt rz vz ײז Qm Vn Wn 81 ₈₁ 18 10 ₁₈ ₁₀ 01 ₀₁ "
-);
 axes = (
 {
 name = Weight;
@@ -434,23 +425,23 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 693;
+value = 957;
 },
 {
 name = typoDescender;
-value = -200;
+value = -334;
 },
 {
 name = typoLineGap;
-value = 55;
+value = 0;
 },
 {
 name = winAscent;
-value = 940;
+value = 957;
 },
 {
 name = winDescent;
-value = -212;
+value = -334;
 },
 {
 name = "Alignment Zones";
@@ -464,6 +455,26 @@ pos = "-200";
 size = "-12";
 }
 );
+},
+{
+name = hheaAscender;
+value = 957;
+},
+{
+name = hheaDescender;
+value = -334;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = strikeoutPosition;
+value = 280;
+},
+{
+name = strikeoutSize;
+value = 50;
 }
 );
 guides = (
@@ -534,28 +545,28 @@ width = 30;
 },
 {
 axesValues = (
-122
+92
 );
 customParameters = (
 {
 name = typoAscender;
-value = 693;
+value = 957;
 },
 {
 name = typoDescender;
-value = -200;
+value = -334;
 },
 {
 name = typoLineGap;
-value = 55;
+value = 0;
 },
 {
 name = winAscent;
-value = 940;
+value = 957;
 },
 {
 name = winDescent;
-value = -212;
+value = -334;
 },
 {
 name = "Alignment Zones";
@@ -569,6 +580,26 @@ pos = "-200";
 size = "-12";
 }
 );
+},
+{
+name = hheaAscender;
+value = 957;
+},
+{
+name = hheaDescender;
+value = -334;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = strikeoutPosition;
+value = 280;
+},
+{
+name = strikeoutSize;
+value = 50;
 }
 );
 guides = (
@@ -633,23 +664,23 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 693;
+value = 957;
 },
 {
 name = typoDescender;
-value = -200;
+value = -334;
 },
 {
 name = typoLineGap;
-value = 55;
+value = 0;
 },
 {
 name = winAscent;
-value = 940;
+value = 957;
 },
 {
 name = winDescent;
-value = -212;
+value = -334;
 },
 {
 name = "Alignment Zones";
@@ -663,6 +694,26 @@ pos = "-200";
 size = "-12";
 }
 );
+},
+{
+name = hheaAscender;
+value = 957;
+},
+{
+name = hheaDescender;
+value = -334;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = strikeoutPosition;
+value = 280;
+},
+{
+name = strikeoutSize;
+value = 50;
 }
 );
 guides = (
@@ -73499,8 +73550,7 @@ axesValues = (
 92
 );
 instanceInterpolations = {
-"705D5379-5CC9-457D-BF30-EC6EB9252852" = 0.375;
-"A270BFC0-E682-4EED-9FF7-BE35A5492496" = 0.625;
+"705D5379-5CC9-457D-BF30-EC6EB9252852" = 1;
 };
 name = Regular;
 },
@@ -73509,7 +73559,8 @@ axesValues = (
 122
 );
 instanceInterpolations = {
-"705D5379-5CC9-457D-BF30-EC6EB9252852" = 1;
+"705D5379-5CC9-457D-BF30-EC6EB9252852" = 0.625;
+"C3F6A16D-5E1F-403C-905F-9502D4908E23" = 0.375;
 };
 name = Medium;
 weightClass = 500;
@@ -73519,8 +73570,8 @@ axesValues = (
 138
 );
 instanceInterpolations = {
-"705D5379-5CC9-457D-BF30-EC6EB9252852" = 0.68;
-"C3F6A16D-5E1F-403C-905F-9502D4908E23" = 0.32;
+"705D5379-5CC9-457D-BF30-EC6EB9252852" = 0.425;
+"C3F6A16D-5E1F-403C-905F-9502D4908E23" = 0.575;
 };
 name = SemiBold;
 weightClass = 600;
@@ -73530,8 +73581,8 @@ axesValues = (
 152
 );
 instanceInterpolations = {
-"705D5379-5CC9-457D-BF30-EC6EB9252852" = 0.4;
-"C3F6A16D-5E1F-403C-905F-9502D4908E23" = 0.6;
+"705D5379-5CC9-457D-BF30-EC6EB9252852" = 0.25;
+"C3F6A16D-5E1F-403C-905F-9502D4908E23" = 0.75;
 };
 isBold = 1;
 name = Bold;
@@ -73542,8 +73593,8 @@ axesValues = (
 162
 );
 instanceInterpolations = {
-"705D5379-5CC9-457D-BF30-EC6EB9252852" = 0.2;
-"C3F6A16D-5E1F-403C-905F-9502D4908E23" = 0.8;
+"705D5379-5CC9-457D-BF30-EC6EB9252852" = 0.125;
+"C3F6A16D-5E1F-403C-905F-9502D4908E23" = 0.875;
 };
 isBold = 1;
 name = ExtraBold;
@@ -74851,7 +74902,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2015 The Frank Ruhl Libre Project Authors (https://github.com/fontef/frankruhlhofshi)";
+value = "Copyright 2015 The Frank Ruhl Libre Project Authors (https://github.com/fontef/frankruhllibre)";
 }
 );
 },
