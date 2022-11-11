@@ -99227,7 +99227,6 @@ instanceInterpolations = {
 "705D5379-5CC9-457D-BF30-EC6EB9252852" = 0.2;
 "C3F6A16D-5E1F-403C-905F-9502D4908E23" = 0.8;
 };
-isBold = 1;
 name = ExtraBold;
 weightClass = 800;
 },
