@@ -45632,19 +45632,19 @@ unicode = 1520;
 },
 {
 glyphname = "vavyod-hb";
-kernLeft = "yod-hb";
-kernRight = "vav-hb";
-lastChange = "2022-11-03 08:56:38 +0000";
+kernLeft = "vav-hb";
+kernRight = "yod-hb";
+lastChange = "2023-03-19 16:25:38 +0000";
 layers = (
 {
 layerId = "A270BFC0-E682-4EED-9FF7-BE35A5492496";
 shapes = (
 {
 pos = (251,0);
-ref = "yod-hb";
+ref = "vav-hb";
 },
 {
-ref = "vav-hb";
+ref = "yod-hb";
 }
 );
 width = 509;
@@ -45655,11 +45655,11 @@ shapes = (
 {
 alignment = -1;
 pos = (296,0);
-ref = "yod-hb";
+ref = "vav-hb";
 },
 {
 alignment = -1;
-ref = "vav-hb";
+ref = "yod-hb";
 }
 );
 width = 593;
@@ -45670,11 +45670,11 @@ shapes = (
 {
 alignment = -1;
 pos = (310,0);
-ref = "yod-hb";
+ref = "vav-hb";
 },
 {
 alignment = -1;
-ref = "vav-hb";
+ref = "yod-hb";
 }
 );
 width = 623;
@@ -45685,11 +45685,11 @@ shapes = (
 {
 alignment = -1;
 pos = (268,0);
-ref = "yod-hb";
+ref = "vav-hb";
 },
 {
 alignment = -1;
-ref = "vav-hb";
+ref = "yod-hb";
 }
 );
 width = 540.5;
