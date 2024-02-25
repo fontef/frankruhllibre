@@ -1,10 +1,6 @@
 {
-.appVersion = "3202";
+.appVersion = "3227";
 .formatVersion = 3;
-DisplayStrings = (
-"״",
-"‟"
-);
 axes = (
 {
 name = Weight;
@@ -99191,6 +99187,19 @@ key = designerURL;
 value = "https://fontef.com/";
 },
 {
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
 key = manufacturers;
 values = (
 {
@@ -99206,19 +99215,6 @@ value = "https://fontef.com/";
 {
 key = vendorID;
 value = FTF;
-},
-{
-key = licenseURL;
-value = "https://scripts.sil.org/OFL";
-},
-{
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
-}
-);
 }
 );
 stems = (
@@ -99242,5 +99238,5 @@ userData = {
 GSDontShowVersionAlert = 1;
 };
 versionMajor = 6;
-versionMinor = 3;
+versionMinor = 4;
 }
